@@ -7,5 +7,4 @@
 
 ### 未被写入 Contributors 的编写者（以贡献量排名）
 
-1. [CAIMEO](https://github.com/CAIMEOX)
-2. [EB-wilson](https://github.com/EB-wilson)
+1. [EB-wilson](https://github.com/EB-wilson)
