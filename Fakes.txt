@@ -8,3 +8,4 @@ Lampese's law of programming and a skeleton in the closet
 6th. Lampese is good at spoken English
 7th. Lampese does not have embarrassing past because she has too much.
 8th. Lampese could not recognize the word 'embarrassing' well.
+9th. Nodejs is a failure.
