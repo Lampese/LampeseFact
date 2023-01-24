@@ -9,3 +9,4 @@ Lampese's law of programming and a skeleton in the closet
 7th. Lampese does not have embarrassing past because she has too much.
 8th. Lampese could not recognize the word 'embarrassing' well.
 9th. Nodejs is a failure.
+10th. Programming is an abstraction of process, we judge when and how.
