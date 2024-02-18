@@ -5,6 +5,3 @@
 
 在该存储库直接使用 Pull request 功能即可。
 
-### 未被写入 Contributors 的编写者（以贡献量排名）
-
-1. [EB-wilson](https://github.com/EB-wilson)
